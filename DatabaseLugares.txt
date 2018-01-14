@@ -1,0 +1,300 @@
+0 bhkgjdcc Estádio de futebol
+1 ahkjbhki Praia
+2 bgacfjjk Boate
+3 adgibibe Boate
+4 bfecekff Monumento
+5 bfabfded Templo religioso
+6 cgbgjefa Lanchonete
+7 fgjdbbab Praça
+8 ejkbjeeb Monumento
+9 kbahhfgk Lanchonete
+10 bdhkgcaa Monumento
+11 hjjidbfd Museu
+12 fcejiffk Shopping
+13 kgjhkjdb Restaurante
+14 bkaghibk Praça
+15 hcgeijjc Templo religioso
+16 ehkacede Museu
+17 ijbdfcfd Bar
+18 ebaejebj Estádio de futebol
+19 igecjacg Restaurante
+20 cedakfcb Estádio de futebol
+21 hfhacffh Bar
+22 ikbdhjdc Shopping
+23 cfefgiac Bar
+24 iakgkcjg Boate
+25 dbfikhge Praia
+26 ddfghhfd Cinema
+27 bfhcdbkb Teatro
+28 cahgfgfk Praça
+29 jckdhfkj Teatro
+30 jibhcjji Hotel
+31 ddieefkj Shopping
+32 edigdihe Monumento
+33 jichjgfi Museu
+34 eajiebcc Cinema
+35 ibakakje Teatro
+36 iacacjhf Cinema
+37 cekdeiif Cinema
+38 bhdidhch Boate
+39 eigcfhie Templo religioso
+40 dhibjdek Museu
+41 fgakfaba Praça
+42 jefejigf Praia
+43 hbhbdeii Teatro
+44 fdicdkkb Templo religioso
+45 abffakhg Restaurante
+46 jjkiedbh Boate
+47 keaaejaf Praça
+48 efhaaehf Shopping
+49 addjgcck Hotel
+50 ehdhahid Praça
+51 ahccjide Shopping
+52 kfaedhde Templo religioso
+53 efadbhca Praça
+54 hdfbhgec Lanchonete
+55 gejaggbd Hotel
+56 ckgkagfc Praia
+57 chgdagje Lanchonete
+58 eihacgck Boate
+59 cahacbab Lanchonete
+60 fkiedaek Restaurante
+61 agghjifk Boate
+62 jabhfiji Shopping
+63 gbjcffbi Museu
+64 kfccegac Praça
+65 addhkfek Estádio de futebol
+66 bfiabkff Hotel
+67 eehiehhf Lanchonete
+68 ikjajkhh Cinema
+69 ajjibjef Teatro
+70 ikjekcec Boate
+71 afcbhici Shopping
+72 kcaeahcf Hotel
+73 bgaikice Museu
+74 ekjceghi Lanchonete
+75 aehjbdka Templo religioso
+76 hceechgg Templo religioso
+77 debkkgah Praça
+78 ckgieegj Boate
+79 kidicidb Cinema
+80 ahaijhdf Estádio de futebol
+81 ekgfjidc Hotel
+82 cfacgjhd Restaurante
+83 iakihgei Restaurante
+84 hkaijiba Shopping
+85 bhigeick Teatro
+86 bicjijcb Bar
+87 ijggjhhd Templo religioso
+88 jebgkbhf Estádio de futebol
+89 bgbddgaj Praça
+90 kiaieibc Teatro
+91 ifadcjhc Praça
+92 bbfebffb Shopping
+93 hcgighhd Hotel
+94 ffhghehb Bar
+95 gecececi Boate
+96 igiijaga Boate
+97 ikfkhfjf Hotel
+98 hbffigka Praia
+99 bgaiefae Restaurante
+100 aicdadei Templo religioso
+101 jhkdjccj Praça
+102 idhcchdi Lanchonete
+103 ekffhbhb Teatro
+104 higeahfg Boate
+105 gdjgkahf Teatro
+106 jhbjgehd Museu
+107 eebhhdde Templo religioso
+108 gdbhdhde Restaurante
+109 jgdbjcib Lanchonete
+110 ghjechaa Teatro
+111 iicahedc Shopping
+112 ddihkehc Teatro
+113 ccakegge Praia
+114 jaiiijei Hotel
+115 hakfcahe Restaurante
+116 dababihc Bar
+117 jcbiijcj Praia
+118 fkddjeib Museu
+119 dhafjbfb Praça
+120 bdjcbdak Bar
+121 fihbfaia Templo religioso
+122 ckhegkdd Cinema
+123 bgfijkfd Monumento
+124 jfafhcjk Templo religioso
+125 jbhhhach Shopping
+126 jigfhdbg Monumento
+127 gaieeiee Monumento
+128 jfdbhkgi Teatro
+129 cjjdjcbd Templo religioso
+130 afaibdif Templo religioso
+131 hjdeffka Praia
+132 aeaabjch Cinema
+133 eibfgdee Teatro
+134 icbikiea Praia
+135 chhhjjaf Lanchonete
+136 gegckjgc Lanchonete
+137 dicdfiaa Teatro
+138 ijgcgigd Shopping
+139 hdbdffkc Praça
+140 dbeecaac Templo religioso
+141 ebkhfcbc Praça
+142 hhgicfhe Praça
+143 ehdghddb Lanchonete
+144 aedeffae Praia
+145 ebiijicc Teatro
+146 jjjfcggj Teatro
+147 ghggdedb Boate
+148 ebddkhac Cinema
+149 ighbkacg Cinema
+150 kjhggaga Praça
+151 kchadhai Cinema
+152 adbfhchk Shopping
+153 djbibbej Museu
+154 ciiaieff Restaurante
+155 iiicdcci Hotel
+156 kgfijfga Teatro
+157 ghbjdkcc Bar
+158 cbfjiebb Teatro
+159 dgdhbhcd Praia
+160 hcjhhdej Lanchonete
+161 cjggefbd Hotel
+162 ehibgafi Boate
+163 ahkbdige Monumento
+164 bcjcdbaj Cinema
+165 ibfidfdc Cinema
+166 dcicbabe Monumento
+167 fjiihcaj Shopping
+168 bgjcgjjc Teatro
+169 hgjghdaj Bar
+170 gfkcjbkh Templo religioso
+171 edigfkbe Bar
+172 ggihgaeh Restaurante
+173 jjcekahe Monumento
+174 ggfkfgda Restaurante
+175 kjbcgfac Cinema
+176 jjdbacak Bar
+177 geedbiak Monumento
+178 gdagcjjh Praça
+179 hcghkidc Lanchonete
+180 abikbbda Shopping
+181 bgfjajkk Praia
+182 decfbahj Praia
+183 eacibbfh Teatro
+184 icbaejce Hotel
+185 edaeefde Templo religioso
+186 iajejcka Bar
+187 abefggff Lanchonete
+188 digkkjie Templo religioso
+189 aekcfdck Lanchonete
+190 cjhheaii Teatro
+191 jjcffcee Estádio de futebol
+192 jdkkdbci Bar
+193 cjgcjige Monumento
+194 cebibgei Museu
+195 jgdgacca Shopping
+196 dbbdfghd Museu
+197 dccjbfbe Praça
+198 cdkbibaa Praça
+199 kabgjdjb Cinema
+200 hjbjjhaa Monumento
+201 hafhjabc Boate
+202 eihcbjje Monumento
+203 hgkikdhk Shopping
+204 egfdibea Museu
+205 dbbebgdf Hotel
+206 khicfceh Templo religioso
+207 cciabaci Cinema
+208 jfeiaeka Bar
+209 djgfhkdg Estádio de futebol
+210 jcjiacch Bar
+211 bhhjbgjc Hotel
+212 gjdafkec Praia
+213 kbfgbcji Estádio de futebol
+214 efkifedk Cinema
+215 kjeihagc Hotel
+216 bbiacgca Praça
+217 hjfiabgj Lanchonete
+218 aeaiahgb Praia
+219 ckhbhici Lanchonete
+220 diabeebi Praia
+221 dkcgjcck Boate
+222 gedjiddg Praia
+223 ebcihihe Shopping
+224 kfedcidi Teatro
+225 eejjebjc Teatro
+226 ajgdikch Hotel
+227 dhceaeak Templo religioso
+228 cfeafcbf Teatro
+229 jcehgcfj Restaurante
+230 eijcfakd Restaurante
+231 fjeaebed Bar
+232 hefjdgch Monumento
+233 jbaiijee Bar
+234 cbcfbchh Templo religioso
+235 dfheihii Museu
+236 jajafcdb Boate
+237 dhhdhffa Restaurante
+238 hiajfhhk Bar
+239 ijfedead Lanchonete
+240 dkfcabki Bar
+241 kecfabad Hotel
+242 chbifjae Shopping
+243 dkjcfkgi Shopping
+244 jjaefack Praça
+245 cihcaibb Teatro
+246 gfjhbhdg Praia
+247 dgdbakia Praia
+248 babeefgh Hotel
+249 fgefjkjb Bar
+250 jikibhhh Cinema
+251 ebceghhi Monumento
+252 cbjjgdcj Praia
+253 fjbbckga Museu
+254 difdkdck Templo religioso
+255 ibigkehg Lanchonete
+256 bhbegffj Shopping
+257 kdjcjdjd Templo religioso
+258 fehghehf Restaurante
+259 icgiiaak Shopping
+260 iabjfcie Restaurante
+261 cbhiidfk Templo religioso
+262 ieacdcbd Museu
+263 hijffjbd Praça
+264 gcgjaaij Hotel
+265 gcjbbaae Praça
+266 kjcikfjh Estádio de futebol
+267 bcjhbfhj Monumento
+268 cchgafkk Lanchonete
+269 cccdgefk Praia
+270 habkafef Monumento
+271 ffggcfdg Museu
+272 kkhheeha Museu
+273 kbdeckhb Restaurante
+274 gacjkkge Bar
+275 hcjeajha Estádio de futebol
+276 ccdkedbh Restaurante
+277 ecdigaja Praia
+278 kckgieca Praia
+279 ahabkaad Templo religioso
+280 dbcdhebe Shopping
+281 bdagkdfk Monumento
+282 aadabhkj Hotel
+283 hbfgaegi Boate
+284 fjcdkkjg Teatro
+285 ebbffhkk Praia
+286 khkdabhe Praça
+287 hbkfebfj Teatro
+288 hgkdaghj Hotel
+289 bidjjbkd Estádio de futebol
+290 fegciihg Cinema
+291 akejekhj Cinema
+292 gkgkfaff Praia
+293 bkcbhcij Shopping
+294 jiijffhb Templo religioso
+295 hfijichc Museu
+296 hceccdge Monumento
+297 dkaaagkj Monumento
+298 edacjieg Bar
+299 ehgbeaii Templo religioso
